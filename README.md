@@ -1,5 +1,7 @@
 ### Hi there 👋
+I currently work as a software engineer at Shopware
 
+You can reach me easiest by shooting me an E-Mail via niklas@limberg.dev
 <!--
 **NiklasLimberg/NiklasLimberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
